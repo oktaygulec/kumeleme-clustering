@@ -1,0 +1,11 @@
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\obj\Debug\Kumeleme_Solution_WinForm.csproj.AssemblyReference.cache
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\obj\Debug\Kumeleme_Solution_WinForm.Form1.resources
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\obj\Debug\Kumeleme_Solution_WinForm.Grafik_View.resources
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\obj\Debug\Kumeleme_Solution_WinForm.Properties.Resources.resources
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\obj\Debug\Kumeleme_Solution_WinForm.csproj.GenerateResource.cache
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\obj\Debug\Kumeleme_Solution_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\bin\Debug\Kumeleme_Solution_WinForm.exe.config
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\bin\Debug\Kumeleme_Solution_WinForm.exe
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\bin\Debug\Kumeleme_Solution_WinForm.pdb
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\obj\Debug\Kumeleme_Solution_WinForm.exe
+C:\Users\Miyajinco\source\repos\Kumeleme_Solution_WinForm\Kumeleme_Solution_WinForm\obj\Debug\Kumeleme_Solution_WinForm.pdb
